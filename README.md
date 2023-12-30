@@ -1,0 +1,1 @@
+# StxMojis-Standard
