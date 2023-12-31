@@ -3,6 +3,8 @@
 
 The stxmojis is designed to enable the minting and transfer of unique emoji inscriptions on the blockchain. In this documentation, we will outline the key operations and features.
 
+## Simple STX transfers initiate the process; the transferred amount is negligible, therefore can be even 0.000001 stx
+
 # Operations
 
 ### Minting Emoji Tokens
