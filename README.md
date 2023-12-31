@@ -57,3 +57,5 @@ Here are some examples of how to use :
 ### (Right now we only have indexer to record all the mint transactions *indexing started from block 133484**, indexer to record transfer from owner address is not yet dveloped)
 
 ### Here is the list of 4,734 emojis and their memos https://docs.google.com/spreadsheets/d/1bzQi-V-mqcI9RUtih0cJwGMjhIUvrPsOfQDVuw1EhHQ/edit?usp=sharing if any emojis are missing you can ping admin in discord to add the emoji to the list.
+
+## Discord https://discord.gg/UAhP4Qxd
