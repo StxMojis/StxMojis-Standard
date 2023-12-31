@@ -7,30 +7,30 @@ The stxmojis is designed to enable the minting and transfer of unique emoji insc
 
 ### Minting Emoji Tokens
 
-Operation: m<emoji>
+Operation: `m<emoji>`
 
 To mint an emoji token, include `m<emoji>` in the memo field of the transaction.
 
 For example, to mint a heart emoji token, set the memo as:
-m<emoji>
+`m<emoji>`
 
 Replace <emoji> with the specific emoji you want to mint. For example, to mint a heart emoji token, you would use:
 
-m❤️
+`m❤️`
 
 ### Transferring Emoji Tokens
 
-Operation: t<emoji>
+Operation: `t<emoji>`
 
 
 To transfer an emoji token from one user to another, use `t<emoji>` in the memo field.
 
 For example, to transfer a smiley face emoji token, set the memo as:
-t<emoji>
+`t<emoji>`
 
 Replace <emoji> with the specific emoji token you want to transfer. For example, to transfer a smiley face emoji token, you would use:
 
-t😊
+`t😊`
 
 # Examples
 
@@ -39,18 +39,18 @@ Here are some examples of how to use :
 ### Minting Emoji Tokens
 
 - To mint a thumbs-up emoji token:
-  m👍
+  `m👍`
 
 - To mint a rocket emoji token:
-  m🚀
+  `m🚀`
 
 ### Transferring Emoji Tokens
 
 - To transfer a heart emoji token to another user:
-  t❤️
+  `t❤️`
 
 - To transfer a unicorn emoji token to another user:
-  t🦄
+  `t🦄`
 
 ### (Right now we only have indexer to record all the mint transactions *indexing started from block 133484**, indexer to record transfer from owner address is not yet dveloped)
 
